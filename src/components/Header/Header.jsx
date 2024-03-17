@@ -14,7 +14,7 @@ const Header = () => {
         <div className="flex justify-between py-2 px-48 bg-black items-center">
 
             <div className="logo">
-                <img src="/public/loog.png" className='h-24' />
+                <img src="loog.png" className='h-24' />
             </div>
 
             <div>
