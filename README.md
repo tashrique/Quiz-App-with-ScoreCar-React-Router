@@ -1,9 +1,38 @@
-# React + Vite
+# Quiz App with Scorecard using React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+by Tashrique Ahmed
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Quiz-App-with-ScoreCar-React-Router
+A simple practice website for React, React Router, and ContextAPI
+
+## Demo
+
+[Live Demo](https://strong-heliotrope-877916.netlify.app/)
+
+## Screenshot
+
+![image](https://github.com/tashrique/Shopping-Cart-Implementation-With-React-Router-Local-Storage/assets/105752119/25b52ad4-9cb3-4ef5-a898-d4285cbfdb62)
+
+## Technologies Used
+
+- React
+- React Router
+- Tailwind CSS
+- ContextAPI
+
+## Connect with Me
+
+- [www.tashrique.com](https://www.tashrique.com)
+
+## Usage
+
+- Go to the live link
+
+## Contributing
+
+Feel free to fork.
+
+## License
+
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
